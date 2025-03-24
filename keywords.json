@@ -1457,6 +1457,12 @@
       "origin": ""
     },
     {
+      "word": "ifs",
+      "length": 3,
+      "atbash": null,
+      "origin": ""
+    },
+    {
       "word": "ignore",
       "length": 6,
       "atbash": [
@@ -3067,7 +3073,7 @@
       "word": "together",
       "length": 8,
       "atbash": [
-        "appart",
+        "apart",
         "separate"
       ],
       "origin": ""
