@@ -52,6 +52,7 @@ bowstring
 brainwave
 breathe
 byron
+call
 calvin
 campbell
 capture
@@ -229,6 +230,7 @@ jormungand
 journey
 katelena
 ken
+key
 kirlian
 klue
 knowledge
@@ -303,6 +305,7 @@ open
 opening
 operative
 ordered
+osiris
 other
 outside
 owen
@@ -349,6 +352,7 @@ rebel
 recharge
 recursion
 reduce
+refresh
 reincarnate
 relative
 relativity
@@ -361,6 +365,7 @@ resist
 resistance
 resonance
 resonate
+response
 restraint
 retreat
 richard
@@ -389,6 +394,7 @@ shapers
 shard
 share
 shell
+shield
 shonin
 sigint
 signal
@@ -400,11 +406,13 @@ skepsis
 soul
 space
 spacetime
+speed
 spirit
 spooky
 spy
 squid
 stability
+star
 statue
 stay
 stein
@@ -428,6 +436,7 @@ thought
 time
 timezero
 titus
+toast
 together
 transpose
 transposition
